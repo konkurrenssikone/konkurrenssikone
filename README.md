@@ -20,10 +20,11 @@ Konkurrenssikoneen on kehittänyt Helsingin hovioikeudessa hovioikeudenneuvos Ju
     - Varoitus tilanteista, joissa riittävä seuraamus -tuomio määrittyy konkurrenssin katkaisevaksi.
     - Ns. keskipitkä malli konkurrenssilausunnoille (kohdittain eritellyt lausunnot, joissa kukin huomioon otettava tuomio mainitaan vain kerran).
     - Pitkän mallin konkurrenssilausuntojen ulkoasun/sanamuodon mahdolliset täsmennykset.
-    - Toiminto, joka määrittää, mitkä tuomiot voivat vaikuttaa muiden tuomioiden konkurrenssin katkaisevuuteen.
+    - Toiminto, joka määrittää, miltä osin eri tuomiot voivat vaikuttaa konkurrenssiryhmien määräytymiseen.
     - Varoitus tilanteista, joissa rikosrekisterin osaote ei ole riittävä.
-    - Toiminto vapaudenmenetysaikojen laskemiseksi.
+    - Muutoksenhakujen esittäminen konkurrenssikaaviossa (käyttäjän valinnan mukaan).
 	- Demo-toiminnon kehittäminen: aikaisempien tuomiopiirijakojen lisääminen ja liikkuvien pyhäpäivien huomioon ottaminen.
+    - Erillinen toiminto vapaudenmenetysaikojen laskemiseksi.
     - Ulkoasun uudistaminen.
 	- Erillisen IE-tuen mahdollinen poistaminen.
 	- Lähdekoodin stilisointeja.
