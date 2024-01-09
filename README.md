@@ -14,7 +14,7 @@ Konkurrenssikoneen on kehittänyt Helsingin hovioikeudessa hovioikeudenneuvos Ju
 
 ## Tulevia muutoksia
 
-- **Versio 0.999 (arvioitu julkaisu 2022)**
+- **Versio 0.999 (arvioitu julkaisu 2024)**
     - Tuomioiden lisäämis- ja muokkaamistoiminto.
     - Toiminto samana päivänä annettujen tuomioiden keskinäisen järjestyksen muuttamiseksi.
     - Varoitus tilanteista, joissa riittävä seuraamus -tuomio määrittyy konkurrenssin katkaisevaksi.
